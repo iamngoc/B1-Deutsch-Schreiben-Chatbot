@@ -1,0 +1,446 @@
+[
+    {
+        "thema_nr": 1,
+        "titel": "Terminverschiebung beim Arzt",
+        "situation": "Sie haben morgen einen Termin beim Zahnarzt Dr. Weber, müssen aber dringend arbeiten.",
+        "leitpunkte": [
+            "Grund für die Absage nennen",
+            "Um einen neuen Termin bitten"
+        ],
+        "modellantwort": "Sehr geehrter Herr Dr. Weber,\n\nleider muss ich meinen Termin für morgen absagen, da ich kurzfristig arbeiten muss. Wäre es möglich, einen neuen Termin in der nächsten Woche zu vereinbaren? Vielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\nAlex Müller",
+        "b1_wendungen": [
+            "Sehr geehrte/r...",
+            "leider muss ich... absagen, da...",
+            "Wäre es möglich, ... zu vereinbaren?",
+            "Vielen Dank für Ihr Verständnis."
+        ]
+    },
+    {
+        "thema_nr": 2,
+        "titel": "Krankmeldung beim Sprachkurs",
+        "situation": "Sie sind aufgewacht und haben starke Kopfschmerzen. Sie können heute nicht zum Deutschkurs kommen.",
+        "leitpunkte": [
+            "Sich beim Kursleiter (Herrn Braun) entschuldigen",
+            "Nach den Hausaufgaben fragen"
+        ],
+        "modellantwort": "Sehr geehrter Herr Braun,\n\nleider kann ich heute nicht am Unterricht teilnehmen, weil ich krank bin. Könnten Sie mir bitte mitteilen, welche Hausaufgaben wir für morgen machen müssen? Ich bedanke mich im Voraus.\n\nMit freundlichen Grüßen\nMaria Schmidt",
+        "b1_wendungen": [
+            "leider kann ich heute nicht... teilnehmen, weil...",
+            "Könnten Sie mir bitte mitteilen, welche...",
+            "Ich bedanke mich im Voraus."
+        ]
+    },
+    {
+        "thema_nr": 3,
+        "titel": "Entschuldigung für das Zuspätkommen (Beruf)",
+        "situation": "Ihr Zug hat heute Morgen eine große Verspätung. Sie werden zu spät zur Arbeit kommen.",
+        "leitpunkte": [
+            "Den Chef (Herrn Wagner) informieren",
+            "Voraussichtliche Ankunftszeit nennen"
+        ],
+        "modellantwort": "Sehr geehrter Herr Wagner,\n\nmein Zug hat heute leider eine große Verspätung, weshalb ich mich ein bisschen verspäten werde. Ich komme voraussichtlich um 09:30 Uhr im Büro an. Ich bitte um Entschuldigung.\n\nMit freundlichen Grüßen\nJan Novak",
+        "b1_wendungen": [
+            "weshalb ich mich... verspäten werde",
+            "Ich komme voraussichtlich um...",
+            "Ich bitte um Entschuldigung."
+        ]
+    },
+    {
+        "thema_nr": 4,
+        "titel": "Anmeldung zu einem Computerkurs",
+        "situation": "Sie haben eine Anzeige für einen Excel-Kurs an der Volkshochschule gesehen.",
+        "leitpunkte": [
+            "Interesse bekunden",
+            "Nach den Kosten und freien Plätzen fragen"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für Ihren Excel-Kurs im nächsten Monat. Könnten Sie mir bitte mitteilen, ob noch Plätze frei sind und wie viel die Teilnahme kostet? Über eine Antwort würde ich mich freuen.\n\nMit freundlichen Grüßen\nLaura Fischer",
+        "b1_wendungen": [
+            "Sehr geehrte Damen und Herren,",
+            "ich interessiere mich für...",
+            "Über eine Antwort würde ich mich freuen."
+        ]
+    },
+    {
+        "thema_nr": 5,
+        "titel": "Bitte um ein persönliches Gespräch (Vermieter)",
+        "situation": "Sie haben eine Frage zu Ihrer Nebenkostenabrechnung und möchten mit Ihrem Vermieter sprechen.",
+        "leitpunkte": [
+            "Grund für das Schreiben nennen",
+            "Nach einem Gesprächstermin fragen"
+        ],
+        "modellantwort": "Sehr geehrter Herr Meyer,\n\nich habe eine kurze Frage zu meiner aktuellen Abrechnung. Hätten Sie diese Woche Zeit für ein kurzes Gespräch? Bitte teilen Sie mir mit, wann es Ihnen am besten passt.\n\nMit freundlichen Grüßen\nThomas Weber",
+        "b1_wendungen": [
+            "ich habe eine kurze Frage zu...",
+            "Hätten Sie diese Woche Zeit für...?",
+            "Bitte teilen Sie mir mit, wann..."
+        ]
+    },
+    {
+        "thema_nr": 6,
+        "titel": "Einladung zu einem Elterngespräch bestätigen",
+        "situation": "Die Lehrerin Ihres Sohnes, Frau Krüger, hat Sie zu einem Gespräch eingeladen.",
+        "leitpunkte": [
+            "Den vorgeschlagenen Termin bestätigen",
+            "Sich für die Einladung bedanken"
+        ],
+        "modellantwort": "Sehr geehrte Frau Krüger,\n\nvielen Dank für die Einladung zum Gespräch. Ich bestätige hiermit den Termin am Donnerstag um 15 Uhr. Ich freue mich auf den Austausch mit Ihnen über meinen Sohn.\n\nMit freundlichen Grüßen\nSarah Becker",
+        "b1_wendungen": [
+            "vielen Dank für die Einladung zu...",
+            "Ich bestätige hiermit den Termin...",
+            "Ich freue mich auf den Austausch..."
+        ]
+    },
+    {
+        "thema_nr": 7,
+        "titel": "Reparaturmeldung an die Hausverwaltung",
+        "situation": "Die Heizung in Ihrer Wohnung funktioniert seit gestern Abend nicht mehr.",
+        "leitpunkte": [
+            "Das Problem kurz beschreiben",
+            "Um die Zusendung eines Handwerkers bitten"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nseit gestern Abend funktioniert die Heizung in meiner Wohnung leider nicht mehr. Da es sehr kalt ist, bitte ich Sie, baldmöglichst einen Handwerker zu schicken. Vielen Dank für Ihre Hilfe.\n\nMit freundlichen Grüßen\nDaniel Kraft",
+        "b1_wendungen": [
+            "seit gestern... funktioniert... leider nicht mehr",
+            "bitte ich Sie, baldmöglichst... zu schicken",
+            "Vielen Dank für Ihre Hilfe."
+        ]
+    },
+    {
+        "thema_nr": 8,
+        "titel": "Urlaubsantrag beim Arbeitgeber",
+        "situation": "Sie möchten im nächsten Monat für drei Tage Urlaub nehmen.",
+        "leitpunkte": [
+            "Urlaubszeitraum nennen",
+            "Um Genehmigung des Antrags bitten"
+        ],
+        "modellantwort": "Sehr geehrte Frau Neumann,\n\nich möchte hiermit vom 12. bis zum 14. Oktober drei Tage Urlaub beantragen. Mein Kollege Herr Lang wird mich in dieser Zeit vertreten. Ich bitte um eine kurze Bestätigung.\n\nMit freundlichen Grüßen\nAnna Berg",
+        "b1_wendungen": [
+            "ich möchte hiermit... Urlaub beantragen",
+            "wird mich in dieser Zeit vertreten",
+            "Ich bitte um eine kurze Bestätigung."
+        ]
+    },
+    {
+        "thema_nr": 9,
+        "titel": "Kündigung einer Mitgliedschaft (Fitnessstudio)",
+        "situation": "Sie möchten Ihren Vertrag im Fitnessstudio zum Monatsende kündigen.",
+        "leitpunkte": [
+            "Kündigung aussprechen",
+            "Um eine schriftliche Bestätigung bitten"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nhiermit kündige ich meine Mitgliedschaft mit der Nummer 4321 fristgerecht zum Monatsende. Bitte senden Sie mir eine schriftliche Bestätigung der Kündigung zu. Vielen Dank für die Zusammenarbeit.\n\nMit freundlichen Grüßen\nMaximilian Koch",
+        "b1_wendungen": [
+            "hiermit kündige ich meine Mitgliedschaft...",
+            "fristgerecht zum Monatsende",
+            "Bitte senden Sie mir eine schriftliche Bestätigung..."
+        ]
+    },
+    {
+        "thema_nr": 10,
+        "titel": "Anfrage wegen Fundsache im Bus",
+        "situation": "Sie haben gestern Ihren Regenschirm im Bus der Linie 100 liegen lassen.",
+        "leitpunkte": [
+            "Gegenstand beschreiben",
+            "Nachfragen, ob er gefunden wurde"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nich habe gestern Nachmittag meinen blauen Regenschirm in der Linie 100 vergessen. Wurde dieser Gegenstand vielleicht bei Ihnen abgegeben? Ich würde mich über eine positive Nachricht sehr freuen.\n\nMit freundlichen Grüßen\nLisa Sommer",
+        "b1_wendungen": [
+            "ich habe gestern... vergessen",
+            "Wurde dieser Gegenstand vielleicht bei Ihnen abgegeben?",
+            "Über eine positive Nachricht..."
+        ]
+    },
+    {
+        "thema_nr": 11,
+        "titel": "Information über Adressänderung",
+        "situation": "Sie sind umgezogen und möchten Ihrer Versicherung Ihre neue Adresse mitteilen.",
+        "leitpunkte": [
+            "Neue Adresse nennen",
+            "Um Aktualisierung der Daten bitten"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nwegen meines Umzugs hat sich meine Adresse geändert. Meine neue Anschrift lautet: Hauptstraße 5, Berlin. Ich bitte Sie höflich, meine Kundendaten in Ihrem System zu aktualisieren. Vielen Dank.\n\nMit freundlichen Grüßen\nPeter Hoffmann",
+        "b1_wendungen": [
+            "wegen meines Umzugs hat sich... geändert",
+            "Meine neue Anschrift lautet...",
+            "Ich bitte Sie höflich, ... zu aktualisieren"
+        ]
+    },
+    {
+        "thema_nr": 12,
+        "titel": "Anmeldung zu einer Prüfung stornieren",
+        "situation": "Sie können wegen einer Dienstreise nicht an der geplanten Prüfung teilnehmen.",
+        "leitpunkte": [
+            "Grund für die Stornierung nennen",
+            "Um Abmeldung von der Prüfung bitten"
+        ],
+        "modellantwort": "Sehr geehrte Frau Dr. Scholz,\n\naufgrund einer dringenden Dienstreise kann ich leider nicht an der Prüfung am Freitag teilnehmen. Ich bitte Sie daher, meine Anmeldung zu stornieren. Ich danke Ihnen für Ihr Verständnis.\n\nMit freundlichen Grüßen\nElena Petrova",
+        "b1_wendungen": [
+            "aufgrund einer dringenden...",
+            "Ich bitte Sie daher, ... zu stornieren",
+            "Ich danke Ihnen für Ihr Verständnis."
+        ]
+    },
+    {
+        "thema_nr": 13,
+        "titel": "Paket beim Nachbarn abholen (Halbformell)",
+        "situation": "Ein Nachbar (Herr Wagner) hat ein Paket für Sie angenommen, aber Sie sind spät zu Hause.",
+        "leitpunkte": [
+            "Sich für die Hilfe bedanken",
+            "Ankündigen, wann Sie das Paket abholen"
+        ],
+        "modellantwort": "Lieber Herr Wagner,\n\nvielen Dank, dass Sie mein Paket angenommen haben. Da ich heute erst sehr spät nach Hause komme, würde ich es gerne morgen gegen 18:00 Uhr abholen. Hoffentlich passt Ihnen das.\n\nViele Grüße\nIhr Christian Groß",
+        "b1_wendungen": [
+            "Lieber Herr...",
+            "vielen Dank, dass Sie... angenommen haben",
+            "würde ich es gerne morgen... abholen"
+        ]
+    },
+    {
+        "thema_nr": 14,
+        "titel": "Anfrage für ein Hotelzimmer",
+        "situation": "Sie planen eine Wochenendreise und brauchen ein Doppelzimmer.",
+        "leitpunkte": [
+            "Datum und Zimmerart nennen",
+            "Nach einem Angebot fragen"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nich möchte vom 5. bis 7. Juni ein Doppelzimmer für zwei Personen in Ihrem Hotel buchen. Haben Sie in diesem Zeitraum noch freie Zimmer und wie hoch ist der Preis?\n\nMit freundlichen Grüßen\nSven Lange",
+        "b1_wendungen": [
+            "ich möchte vom... bis... ein Doppelzimmer... buchen",
+            "Haben Sie in diesem Zeitraum noch freie Zimmer?"
+        ]
+    },
+    {
+        "thema_nr": 15,
+        "titel": "Fehlen wegen eines Arzttermins ankündigen",
+        "situation": "Sie haben nächste Woche einen wichtigen Arzttermin während der Arbeitszeit.",
+        "leitpunkte": [
+            "Uhrzeit nennen und Bescheid geben",
+            "Versprechen, die Stunden nachzuholen"
+        ],
+        "modellantwort": "Sehr geehrte Frau Müller,\n\nich möchte Sie informieren, dass ich nächsten Dienstag um 10 Uhr einen Arzttermin habe. Ich werde deshalb zwei Stunden später kommen und diese Arbeitszeit am Donnerstag gerne nachholen.\n\nMit freundlichen Grüßen\nLukas Fuchs",
+        "b1_wendungen": [
+            "ich möchte Sie informieren, dass...",
+            "Ich werde deshalb zwei Stunden später...",
+            "am Donnerstag gerne nachholen"
+        ]
+    },
+    {
+        "thema_nr": 16,
+        "titel": "Einladung zu einer Konferenz ablehnen",
+        "situation": "Sie haben eine offizielle Einladung zu einer IT-Konferenz erhalten, haben aber keine Zeit.",
+        "leitpunkte": [
+            "Sich bedanken",
+            "Absagen und viel Erfolg wünschen"
+        ],
+        "modellantwort": "Sehr geehrter Herr Direktor Becker,\n\nvielen Dank für die freundliche Einladung zu Ihrer Konferenz. Wegen anderer Termine kann ich leider nicht teilnehmen. Ich wünsche Ihnen und Ihrem Team eine erfolgreiche Veranstaltung.\n\nMit freundlichen Grüßen\nMarkus Schäfer",
+        "b1_wendungen": [
+            "vielen Dank für die freundliche Einladung zu...",
+            "Wegen anderer Termine...",
+            "Ich wünsche Ihnen... eine erfolgreiche Veranstaltung."
+        ]
+    },
+    {
+        "thema_nr": 17,
+        "titel": "Nachfrage zu einer Bewerbung",
+        "situation": "Sie haben sich vor drei Wochen um eine Stelle beworben und noch keine Antwort erhalten.",
+        "leitpunkte": [
+            "Bezug auf die Bewerbung nehmen",
+            "Höflich nach dem aktuellen Stand fragen"
+        ],
+        "modellantwort": "Sehr geehrte Frau Richter,\n\nich habe mich vor drei Wochen bei Ihnen beworben. Da ich sehr großes Interesse an der Stelle habe, möchte ich höflich fragen, wie der aktuelle Stand des Prozesses ist.\n\nMit freundlichen Grüßen\nSimon Keller",
+        "b1_wendungen": [
+            "ich habe mich vor... bei Ihnen beworben",
+            "Da ich sehr großes Interesse... habe",
+            "möchte ich höflich fragen, wie der aktuelle Stand... ist"
+        ]
+    },
+    {
+        "thema_nr": 18,
+        "titel": "Geburtstagsglückwunsch an den Chef (Halbformell)",
+        "situation": "Ihr Abteilungsleiter, Herr Peters, hat heute Geburtstag.",
+        "leitpunkte": [
+            "Herzlich gratulieren",
+            "Gesundheit und Erfolg wünschen"
+        ],
+        "modellantwort": "Lieber Herr Peters,\n\nzu Ihrem Geburtstag gratuliere ich Ihnen ganz herzlich! Für das neue Lebensjahr wünsche ich Ihnen viel Gesundheit, persönliche Zufriedenheit und weiterhin großen Erfolg im Beruf. Feiern Sie schön!\n\nMit besten Grüßen\nIhre Sabine Winter",
+        "b1_wendungen": [
+            "zu Ihrem Geburtstag gratuliere ich Ihnen ganz herzlich!",
+            "Für das neue Lebensjahr wünsche ich Ihnen...",
+            "Mit besten Grüßen"
+        ]
+    },
+    {
+        "thema_nr": 19,
+        "titel": "Schaden an einem Mietwagen melden",
+        "situation": "Sie haben ein Auto gemietet und beim Parken einen kleinen Kratzer verursacht.",
+        "leitpunkte": [
+            "Den Schaden melden",
+            "Nach dem weiteren Ablauf fragen"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nleider habe ich gestern beim Parken einen kleinen Kratzer am Mietwagen (Kennzeichen: B-XY 123) verursacht. Bitte teilen Sie mir mit, welche Dokumente Sie für die Versicherung benötigen.\n\nMit freundlichen Grüßen\nOliver Baum",
+        "b1_wendungen": [
+            "leider habe ich gestern... verursacht",
+            "Bitte teilen Sie mir mit, welche Dokumente Sie..."
+        ]
+    },
+    {
+        "thema_nr": 20,
+        "titel": "Fehlende Unterlagen nachreichen",
+        "situation": "Das Arbeitsamt hat Sie aufgefordert, Ihre Passkopie einzureichen.",
+        "leitpunkte": [
+            "Dokument im Anhang erwähnen",
+            "Um kurze Bestätigung bitten"
+        ],
+        "modellantwort": "Sehr geehrte Frau Bauer,\n\nwie gewünscht übersende ich Ihnen im Anhang dieser E-Mail eine Kopie meines Reisepasses für meine Unterlagen. Bitte bestätigen Sie mir kurz den Erhalt des Dokuments. Vielen Dank.\n\nMit freundlichen Grüßen\nIgor Volkov",
+        "b1_wendungen": [
+            "wie gewünscht übersende ich Ihnen im Anhang...",
+            "Bitte bestätigen Sie mir kurz den Erhalt..."
+        ]
+    },
+    {
+        "thema_nr": 21,
+        "titel": "Verlängerung der Leihfrist (Bibliothek)",
+        "situation": "Sie haben Fachbücher ausgeliehen und brauchen sie noch eine Woche länger für ein Projekt.",
+        "leitpunkte": [
+            "Grund nennen",
+            "Um Verlängerung der Frist bitten"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nda ich noch an meiner Präsentation arbeite, benötige ich die ausgeliehenen Bücher etwas länger. Wäre es möglich, die Leihfrist für mein Kundenkonto (Nr. 9876) um eine Woche zu verlängern?\n\nMit freundlichen Grüßen\nJulia Klein",
+        "b1_wendungen": [
+            "da ich noch an... arbeite, benötige ich...",
+            "Wäre es möglich, die Leihfrist... zu verlängern?"
+        ]
+    },
+    {
+        "thema_nr": 22,
+        "titel": "Anfrage für ein Praktikum",
+        "situation": "Sie möchten im Sommer ein zweiwöchiges Praktikum im Marketingbereich machen.",
+        "leitpunkte": [
+            "Zeitraum und Wunsch nennen",
+            "Nach der Möglichkeit fragen"
+        ],
+        "modellantwort": "Sehr geehrter Herr Dr. Lang,\n\nich studiere Wirtschaft und suche für August ein zweiwöchiges Praktikum im Marketing. Bietet Ihre Firma solche Plätze an? Über eine kurze Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nTim Krüger",
+        "b1_wendungen": [
+            "ich suche für... ein zweiwöchiges Praktikum in...",
+            "Über eine kurze Rückmeldung würde ich mich sehr freuen."
+        ]
+    },
+    {
+        "thema_nr": 23,
+        "titel": "Einladung zum Hoffest zusagen (Nachbarschaft)",
+        "situation": "Ihr Vermieter/Haussprecher lädt alle Mieter zu einem sommerlichen Hoffest ein.",
+        "leitpunkte": [
+            "Zusage erteilen",
+            "Anbieten, einen Salat mitzubringen"
+        ],
+        "modellantwort": "Sehr geehrter Herr Schubert,\n\nich komme sehr gerne zu unserem Hoffest am Samstag. Vielen Dank für die Organisation! Wenn Sie möchten, kann ich gerne einen frischen Nudelsalat für das Buffet mitbringen. Bis Samstag!\n\nMit freundlichen Grüßen\nKarin Schulze",
+        "b1_wendungen": [
+            "ich komme sehr gerne zu...",
+            "Vielen Dank für die Organisation!",
+            "Wenn Sie möchten, kann ich gerne..."
+        ]
+    },
+    {
+        "thema_nr": 24,
+        "titel": "Beschwerde über falschen Artikel",
+        "situation": "Sie haben Schuhe in Größe 42 bestellt, aber Größe 39 erhalten.",
+        "leitpunkte": [
+            "Fehler reklamieren",
+            "Um Zusendung der richtigen Größe bitten"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nich habe bei Ihnen Schuhe in Größe 42 bestellt, jedoch Größe 39 erhalten. Ich bitte Sie, mir den richtigen Artikel zuzusenden. Den falschen werde ich umgehend zurückschicken.\n\nMit freundlichen Grüßen\nWalter Weiß",
+        "b1_wendungen": [
+            "..., jedoch ... erhalten.",
+            "Ich bitte Sie, mir den richtigen Artikel zuzusenden.",
+            "Den falschen werde ich umgehend zurückschicken."
+        ]
+    },
+    {
+        "thema_nr": 25,
+        "titel": "Frage zu den Zahlungsbedingungen",
+        "situation": "Sie haben eine Rechnung erhalten und möchten wissen, ob Ratenzahlung möglich ist.",
+        "leitpunkte": [
+            "Rechnungsnummer nennen",
+            "Nach der Option der Ratenzahlung fragen"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nes geht um die Rechnung Nr. 112233. Da der Betrag sehr hoch ist, möchte ich fragen, ob eine Ratenzahlung in drei Teilen möglich wäre. Vielen Dank für Ihre Kooperation.\n\nMit freundlichen Grüßen\nNina Berger",
+        "b1_wendungen": [
+            "es geht um die Rechnung Nr...",
+            "Da der Betrag sehr hoch ist, möchte ich fragen, ob...",
+            "Vielen Dank für Ihre Kooperation."
+        ]
+    },
+    {
+        "thema_nr": 26,
+        "titel": "Ankündigung eines Handwerkerbesuchs verschieben",
+        "situation": "Die Hausverwaltung will am Mittwoch um 10:00 Uhr die Zähler ablesen, Sie sind nicht da.",
+        "leitpunkte": [
+            "Abwesenheit begründen",
+            "Alternativen Zeitraum am Nachmittag vorschlagen"
+        ],
+        "modellantwort": "Sehr geehrte Damen und Herren,\n\nam Mittwoch um 10 Uhr bin ich leider auf der Arbeit. Könnte der Handwerker stattdessen am selben Tag ab 16 Uhr zu mir kommen? Ich danke Ihnen für Ihre Flexibilität.\n\nMit freundlichen Grüßen\nPaul Schröder",
+        "b1_wendungen": [
+            "am ... bin ich leider auf der Arbeit.",
+            "Könnte der Handwerker stattdessen...?",
+            "Ich danke Ihnen für Ihre Flexibilität."
+        ]
+    },
+    {
+        "thema_nr": 27,
+        "titel": "Teilnahme an einer Teambesprechung absagen",
+        "situation": "Sie müssen wegen eines dringenden Kundentermins die Besprechung am Freitag verpassen.",
+        "leitpunkte": [
+            "Absage begründen",
+            "Um das Protokoll der Sitzung bitten"
+        ],
+        "modellantwort": "Sehr geehrte Kolleginnen und Kollegen,\n\nwegen eines wichtigen Kundentermins kann ich am Freitag leider nicht an unserer Besprechung teilnehmen. Könnte mir bitte jemand danach das Protokoll zuschicken? Vielen Dank und liebe Grüße.\n\nMit freundlichen Grüßen\nJanine Kunze",
+        "b1_wendungen": [
+            "wegen eines wichtigen... kann ich leider nicht...",
+            "Könnte mir bitte jemand danach das Protokoll zuschicken?"
+        ]
+    },
+    {
+        "thema_nr": 28,
+        "titel": "Anfrage für eine Wohnungsbesichtigung",
+        "situation": "Sie haben online ein Inserat für eine 2-Zimmer-Wohnung gesehen.",
+        "leitpunkte": [
+            "Interesse ausdrücken",
+            "Nach einem Besichtigungstermin fragen"
+        ],
+        "modellantwort": "Sehr geehrte Frau Ebert,\n\nihr Wohnungsangebot gefällt mir sehr gut. Ich habe ein festes Einkommen und keine Haustiere. Wann wäre eine Besichtigung der Wohnung möglich? Ich freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\nDavid Becker",
+        "b1_wendungen": [
+            "ihr Wohnungsangebot gefällt mir sehr gut.",
+            "Wann wäre eine Besichtigung der Wohnung möglich?",
+            "Ich freue mich auf Ihre Antwort."
+        ]
+    },
+    {
+        "thema_nr": 29,
+        "titel": "Bitte um Arbeitszeugnis",
+        "situation": "Sie verlassen das Unternehmen in zwei Monaten und benötigen ein Zeugnis für Bewerbungen.",
+        "leitpunkte": [
+            "Grund für das Zeugnis nennen",
+            "Um Ausstellung bis Monatsende bitten"
+        ],
+        "modellantwort": "Sehr geehrter Herr Hoffmann,\n\nda ich unsere Firma bald verlasse, benötige ich ein qualifiziertes Arbeitszeugnis für meine zukünftigen Bewerbungen. Wäre es möglich, mir dieses bis zum Monatsende auszustellen? Vielen Dank.\n\nMit freundlichen Grüßen\nMelanie Frank",
+        "b1_wendungen": [
+            "da ich unsere Firma bald verlasse, benötige ich...",
+            "Wäre es möglich, mir dieses bis zum... auszustellen?"
+        ]
+    },
+    {
+        "thema_nr": 30,
+        "titel": "Zusage zu einem Vorstellungsgespräch",
+        "situation": "Ein Unternehmen hat Sie per E-Mail zu einem Vorstellungsgespräch eingeladen.",
+        "leitpunkte": [
+            "Sich für die Einladung bedanken",
+            "Den vorgeschlagenen Termin bestätigen"
+        ],
+        "modellantwort": "Sehr geehrte Frau Zimmermann,\n\nvielen Dank für die Einladung zum Vorstellungsgespräch. Ich nehme den Termin am nächsten Montag um 14 Uhr sehr gerne wahr und freue mich darauf, Sie persönlich kennenzulernen.\n\nMit freundlichen Grüßen\nChristian Reinhardt",
+        "b1_wendungen": [
+            "vielen Dank für die Einladung zum...",
+            "Ich nehme den Termin... sehr gerne wahr",
+            "ich freue mich darauf, Sie persönlich kennenzulernen."
+        ]
+    }
+]

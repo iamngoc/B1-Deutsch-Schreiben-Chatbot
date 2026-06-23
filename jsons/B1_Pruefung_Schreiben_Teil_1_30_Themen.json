@@ -1,0 +1,332 @@
+[
+    {
+        "thema_nr": 1,
+        "titel": "Einladung zu einer Geburtstagsparty",
+        "situation": "Sie haben nächste Woche Geburtstag und möchten feiern. Schreiben Sie eine E-Mail an Ihren Freund/Ihre Freundin Lukas/Laura.",
+        "leitpunkte": [
+            "Grund des Schreibens und Einladung",
+            "Zeit und Ort der Party nennen",
+            "Um Rückmeldung bitten"
+        ],
+        "modellantwort": "Liebe Laura,\n\nwie geht es dir? Ich hoffe, alles ist gut. Ich schriebe dir, weil ich nächste Woche am Samstag meinen Geburtstag feiere und dich herzlich einladen möchte. Die Party findet ab 19:00 Uhr bei mir zu Hause im Garten statt. Es gibt gutes Essen, kalte Getränke und Musik. Bitte gib mir bis Donnerstag Bescheid, ob du kommen kannst, damit ich planen kann. Ich würde mich riesig freuen!\n\nViele Grüße\nDein Jan"
+    },
+    {
+        "thema_nr": 2,
+        "titel": "Rückblick auf ein Konzertwochenende",
+        "situation": "Sie waren am Wochenende auf einem Open-Air-Konzert. Berichten Sie Ihrem Freund davon.",
+        "leitpunkte": [
+            "Welches Konzert besucht wurde",
+            "Wie die Stimmung war",
+            "Vorschlag für ein nächstes Treffen"
+        ],
+        "modellantwort": "Lieber Ben,\n\nich hoffe, du hattest ein schönes Wochenende! Ich muss dir unbedingt von meinem Samstag erzählen. Ich war auf dem Open-Air-Konzert der Band \"Lichter\" in der Altstadt. Die Stimmung war einfach unglaublich, und das Wetter war perfekt. Die Leute haben alle getanzt und mitgesungen. Wir sollten uns nächste Woche auf einen Kaffee treffen, dann zeige ich dir die Videos. Hast du am Mittwoch Zeit?\n\nHerzliche Grüße\nDeine Marie"
+    },
+    {
+        "thema_nr": 3,
+        "titel": "Planung eines gemeinsamen Picknicks",
+        "situation": "Das Wetter ist schön und Sie wollen mit einer Freundin ein Picknick im Park machen.",
+        "leitpunkte": [
+            "Idee vorschlagen",
+            "Was jeder mitbringen soll",
+            "Treffpunkt und Uhrzeit vorschlagen"
+        ],
+        "modellantwort": "Liebe Sofia,\n\nhast du dieses Wochenende schon etwas vor? Das Wetter soll wunderschön werden, deshalb dachte ich, dass wir ein Picknick im Stadtpark machen könnten. Ich kann ein paar Sandwiches und eine Decke mitbringen. Könntest du vielleicht ein paar Früchte und etwas zu trinken kaufen? Treffen wir uns am Sonntag um 14:00 Uhr direkt am Haupteingang des Parks? Sag mir bald Bescheid!\n\nLiebe Grüße\nDeine Anna"
+    },
+    {
+        "thema_nr": 4,
+        "titel": "Einweihungsparty der neuen Wohnung",
+        "situation": "Sie sind vor Kurzem umgezogen und organisieren eine Party für Ihre Freunde.",
+        "leitpunkte": [
+            "Über den Umzug berichten",
+            "Zur Einweihungsparty einladen",
+            "Wegbeschreibung anbieten"
+        ],
+        "modellantwort": "Lieber Jonas,\n\nendlich habe ich den ganzen Umzugsstress hinter mir und wohne nun in meiner neuen Wohnung! Sie ist sehr hell und hat einen großen Balkon. Das möchte ich am Freitagabend mit einer Einweihungsparty feiern. Du musst unbedingt kommen! Wenn du die Adresse nicht genau weißt, kann ich dir gerne eine Wegbeschreibung per WhatsApp schicken. Bring ruhig noch jemanden mit!\n\nViele Grüße\nDein Maxim"
+    },
+    {
+        "thema_nr": 5,
+        "titel": "Absage einer Verabredung wegen Krankheit",
+        "situation": "Sie sind krank geworden und können sich morgen nicht wie geplant mit Ihrem Freund treffen.",
+        "leitpunkte": [
+            "Grund für die Absage nennen",
+            "Entschuldigung aussprechen",
+            "Neuen Termin vorschlagen"
+        ],
+        "modellantwort": "Lieber Tim,\n\nes tut mir furchtbar leid, aber ich muss unser Treffen für morgen leider absagen. Mich hat eine Erkältung erwischt, ich habe Fieber und muss im Bett bleiben. Ich hoffe, du bist mir nicht böse, ich hatte mich schon sehr gefreut. Sobald ich wieder gesund bin, holen wir das nach. Wie sieht es bei dir am nächsten Donnerstag aus?\n\nGute Besserungswünsche an mich und liebe Grüße an dich\nDein Christian"
+    },
+    {
+        "thema_nr": 6,
+        "titel": "Besuch eines neuen Restaurants",
+        "situation": "Sie haben ein neues Restaurant in der Stadt ausprobiert und schreiben einem Freund.",
+        "leitpunkte": [
+            "Welches Restaurant getestet wurde",
+            "Meinung über das Essen und die Preise",
+            "Empfehlung aussprechen"
+        ],
+        "modellantwort": "Liebe Lena,\n\nich war gestern Abend mit meiner Familie in dem neuen italienischen Restaurant am Marktplatz. Das Essen war wirklich fantastisch, besonders die Pizza. Auch die Preise waren absolut fair für die großen Portionen. Du liebst doch italienische Küche, deshalb musst du das unbedingt mal ausprobieren. Wollen wir dort nächste Woche zusammen hingehen?\n\nLiebe Grüße\nDeine Sarah"
+    },
+    {
+        "thema_nr": 7,
+        "titel": "Einladung zum gemeinsamen Kochen",
+        "situation": "Sie möchten für sich und einen Freund ein neues Rezept ausprobieren.",
+        "leitpunkte": [
+            "Kochidee äußern",
+            "Vorschlag für den Tag machen",
+            "Nach Allergien/Vorlieben fragen"
+        ],
+        "modellantwort": "Lieber David,\n\nich habe im Internet ein tolles Rezept für ein traditionelles Curry gefunden und möchte es unbedingt ausprobieren. Da du auch gerne kochest, dachte ich, wir machen das zusammen. Passt es dir diesen Freitag um 18:00 Uhr? Sag mir bitte vorher noch Bescheid, ob du scharfes Essen magst oder ob du bestimmte Zutaten nicht verträgst.\n\nViele Grüße\nDein Lukas"
+    },
+    {
+        "thema_nr": 8,
+        "titel": "Teilnahme an einem Stadtlauf / Marathon",
+        "situation": "Sie haben an einem lokalen Sportevent teilgenommen und berichten davon.",
+        "leitpunkte": [
+            "Teilnahme am Stadtlauf erwähnen",
+            "Persönliches Ergebnis und Gefühl beschreiben",
+            "Zum Training einladen"
+        ],
+        "modellantwort": "Liebe Julia,\n\nich bin gestern tatsächlich beim großen Stadtlauf mitgelaufen! Es war zwar sehr anstrengend, aber ich habe die 10 Kilometer in einer Stunde geschafft und bin stolz auf mich. Die Atmosphäre an der Strecke war fantastisch. Ich möchte jetzt regelmäßig trainieren. Hast du Lust, nächste Woche einmal zusammen im Park joggen zu gehen?\n\nHerzliche Grüße\nDein Marc"
+    },
+    {
+        "thema_nr": 9,
+        "titel": "Organisation eines Spieleabends",
+        "situation": "Sie möchten einen gemütlichen Abend mit Brettspielen veranstalten.",
+        "leitpunkte": [
+            "Idee des Spieleabends erklären",
+            "Einladung aussprechen",
+            "Bitte um Snacks oder Spiele"
+        ],
+        "modellantwort": "Lieber Simon,\n\nwie wäre es mal wieder mit einem gemütlichen Spieleabend? Ich lade dich und ein paar Freunde für nächsten Samstag zu mir ein. Ich habe schon zwei neue Brettspiele gekauft, die wir testen können. Es wäre super, wenn du auch ein Spiel mitbringen könntest. Für Getränke sorge ich, bringst du vielleicht ein paar Knabbersachen mit?\n\nBis Samstag und liebe Grüße\nDeine Melanie"
+    },
+    {
+        "thema_nr": 10,
+        "titel": "Besuch eines Flohmarkts",
+        "situation": "Sie möchten am Wochenende auf den Flohmarkt gehen und suchen Begleitung.",
+        "leitpunkte": [
+            "Pläne für das Wochenende nennen",
+            "Begleitung vorschlagen",
+            "Uhrzeit für das Treffen vereinbaren"
+        ],
+        "modellantwort": "Liebe Klara,\n\nhast du am Samstagmorgen schon etwas vor? Ich möchte unbedingt auf den großen Flohmarkt auf dem Messegelände gehen, um nach alten Büchern zu suchen. Möchtest du mich begleiten? Es macht zu zweit viel mehr Spaß. Der Markt öffnet früh, deshalb schlage ich vor, dass wir uns um 09:00 Uhr am Bahnhof treffen. Passt dir das?\n\nViele Grüße\nDeine Maja"
+    },
+    {
+        "thema_nr": 11,
+        "titel": "Grüße aus dem Urlaub",
+        "situation": "Sie sind gerade im Urlaub und schreiben eine E-Mail an einen Freund zu Hause.",
+        "leitpunkte": [
+            "Aktuellen Aufenthaltsort nennen",
+            "Aktivitäten und Wetter beschreiben",
+            "Rückkehr und Treffen ankündigen"
+        ],
+        "modellantwort": "Lieber Felix,\n\nviele Grüße aus Mallorca! Ich verbringe hier eine wunderschöne Woche. Das Wetter ist herrlich, jeden Tag scheint die Sonne und das Meer ist angenehm warm. Gestern habe ich eine lange Fahrradtour in den Bergen gemacht. Am Sonntag fliege ich zurück nach Hause. Lass uns nächste Woche unbedingt treffen, ich habe viele Fotos für dich!\n\nBis bald und liebe Grüße\nDein Oliver"
+    },
+    {
+        "thema_nr": 12,
+        "titel": "Planung einer gemeinsamen Städtereise",
+        "situation": "Sie und Ihr Freund wollen im Herbst zusammen verreisen.",
+        "leitpunkte": [
+            "Reiseziel vorschlagen (z. B. Berlin)",
+            "Dauer und Unterkunft besprechen",
+            "Um Rückmeldung bitten"
+        ],
+        "modellantwort": "Liebe Emma,\n\nich freue mich schon so auf unseren gemeinsamen Urlaub im Herbst! Was hältst du davon, wenn wir für drei Tage nach Berlin fahren? Dort gibt es so viel zu sehen. Wir könnten in einem günstigen Hotel im Zentrum oder in einem Airbnb übernachten. Schau doch mal im Internet nach Flügen oder Zügen und sag mir, was du denkst.\n\nHerzliche Grüße\nDeine Lea"
+    },
+    {
+        "thema_nr": 13,
+        "titel": "Erfahrung mit einer Autopanne",
+        "situation": "Sie hatten gestern auf dem Weg zur Arbeit ein Problem mit dem Auto und berichten einem Freund.",
+        "leitpunkte": [
+            "Was passiert ist",
+            "Wer Ihnen geholfen hat",
+            "Aktueller Zustand des Autos"
+        ],
+        "modellantwort": "Lieber Paul,\n\ndu glaubst nicht, was mir gestern passiert ist! Mitten auf der Autobahn hatte mein Auto plötzlich eine Panne und der Motor ging aus. Zum Glück hat mich der ADAC abgeschleppt und ein sehr netter Mechaniker hat mir geholfen. Mein Auto steht jetzt in der Werkstatt und wird repariert. Am Wochenende muss ich wohl den Bus nehmen.\n\nViele Grüße\nDein Sebastian"
+    },
+    {
+        "thema_nr": 14,
+        "titel": "Kauf eines neuen Haustiers",
+        "situation": "Sie haben sich endlich einen Hund oder eine Katze gekauft und schreiben darüber.",
+        "leitpunkte": [
+            "Das neue Haustier vorstellen",
+            "Warum Sie sich dafür entschieden haben",
+            "Zum Kennenlernen einladen"
+        ],
+        "modellantwort": "Liebe Nina,\n\nich habe eine große Überraschung für dich! Seit gestern wohnt ein kleiner Hund bei mir. Er heißt \"Bello\" und ist super süß. Ich wollte schon seit Jahren ein Haustier haben, weil ich gerne in der Natur spazieren gehe. Du musst ihn unbedingt kennenlernen! Hast du Lust, am Sonntag mit uns eine Runde im Wald zu drehen?\n\nLiebe Grüße\nDeine Claudia"
+    },
+    {
+        "thema_nr": 15,
+        "titel": "Erster Tag im neuen Job",
+        "situation": "Sie haben eine neue Stelle begonnen und berichten einer ehemaligen Kollegin/einem Freund.",
+        "leitpunkte": [
+            "Erste Eindrücke schildern",
+            "Die neuen Kollegen beschreiben",
+            "Gefühle bezüglich der Aufgaben"
+        ],
+        "modellantwort": "Lieber Dennis,\n\nmein erster Arbeitstag in der neuen Firma ist geschafft! Ich war morgens sehr nervös, aber alle meine neuen Kollegen sind total nett und haben mich herzlich empfangen. Mein Arbeitsplatz ist modern und die Aufgaben klingen wirklich spannend, obwohl ich noch viel lernen muss. Ich bin sehr glücklich mit meiner Entscheidung. Wir müssen bald telefonieren!\n\nViele Grüße\nDein Nico"
+    },
+    {
+        "thema_nr": 16,
+        "titel": "Verlust eines wichtigen Gegenstands",
+        "situation": "Sie haben Ihre Tasche oder Ihr Handy verloren und fragen einen Freund, ob es bei ihm liegt.",
+        "leitpunkte": [
+            "Verlust beschreiben",
+            "Vermutung äußern, wo es sein könnte",
+            "Um Hilfe bei der Suche bitten"
+        ],
+        "modellantwort": "Liebe Elena,\n\nich habe gestern Abend anscheinend meine schwarze Geldbörse verloren. Ich habe schon überall gesucht, kann sie aber nicht finden. Kann es sein, dass ich sie bei dir auf dem Sofa vergessen habe, als wir den Film geschaut haben? Bitte schau kurz nach und sag mir Bescheid, ich brauche dringend meinen Führerschein!\n\nHerzliche Grüße\nDein Tobias"
+    },
+    {
+        "thema_nr": 17,
+        "titel": "Ein neues Hobby begonnen (Fotografie)",
+        "situation": "Sie haben ein neues Hobby angefangen und möchten einem Freund davon erzählen.",
+        "leitpunkte": [
+            "Welches Hobby gewählt wurde",
+            "Warum es Ihnen gefällt",
+            "Vorschlag für ein gemeinsames Projekt"
+        ],
+        "modellantwort": "Lieber Marcel,\n\nich habe ein neues Hobby für mich entdeckt: die Fotografie! Ich habe mir eine Kamera gekauft und mache jetzt am Wochenende oft Spaziergänge, um die Natur zu fotografieren. Es macht unglaublich viel Spaß und entspannt mich total. Da du gerne zeichnest, könnten wir doch mal zusammen ein kreatives Projekt machen. Was denkst du?\n\nViele Grüße\nDeine Jessica"
+    },
+    {
+        "thema_nr": 18,
+        "titel": "Erfahrungen beim Sprachkurs",
+        "situation": "Sie besuchen einen Deutsch- oder Englischintensivkurs und schreiben darüber.",
+        "leitpunkte": [
+            "Über den Kurs berichten",
+            "Lehrer und Lernmethode bewerten",
+            "Lerntipps austauschen wollen"
+        ],
+        "modellantwort": "Liebe Maria,\n\nich besuche seit zwei Wochen einen B1-Intensivkurs. Der Kurs ist ziemlich anstrengend, aber ich lerne sehr viel. Die Lehrerin ist sehr geduldig und wir sprechen fast nur auf Deutsch, was mir gut hilft. Da du auch deine Sprachkenntnisse verbessern möchtest: Sollen wir am Wochenende zusammen lernen und ein paar Übungen machen?\n\nLiebe Grüße\nDeine Natalia"
+    },
+    {
+        "thema_nr": 19,
+        "titel": "Ein unvergesslicher Kinobesuch",
+        "situation": "Sie waren im Kino und der Film hat Ihnen besonders gut gefallen.",
+        "leitpunkte": [
+            "Welchen Film Sie gesehen haben",
+            "Kurze Meinung zum Inhalt",
+            "Empfehlung aussprechen"
+        ],
+        "modellantwort": "Lieber Kevin,\n\nich war gestern Abend im Kino und habe den neuen Science-Fiction-Film gesehen, von dem alle reden. Der Film war absolut spannend und die Spezialeffekte waren großartig. Die Geschichte war tiefgründig und überhaupt nicht langweilig. Wenn du am Wochenende Zeit hast, solltest du ihn dir unbedingt ansehen, er lohnt sich wirklich!\n\nViele Grüße\nDein Leon"
+    },
+    {
+        "thema_nr": 20,
+        "titel": "Probleme mit dem Vermieter / Nachbarn",
+        "situation": "Sie haben Ärger in Ihrer Wohnung und brauchen einen Rat von einem Freund.",
+        "leitpunkte": [
+            "Das Problem schildern (z. B. Lärm)",
+            "Bisherige Lösungsversuche nennen",
+            "Um Rat fragen"
+        ],
+        "modellantwort": "Liebe Sandra,\n\nich brauche mal dringend deinen Rat. Mein neuer Nachbar über mir hört fast jede Nacht sehr laut Musik, sodass ich nicht schlafen kann. Ich habe schon zweimal nett mit ihm gesprochen, aber es hat sich nichts geändert. Ich weiß wirklich nicht, was ich jetzt tun soll. Soll ich mich direkt beim Vermieter beschweren?\n\nHerzliche Grüße\nDeine Nicole"
+    },
+    {
+        "thema_nr": 21,
+        "titel": "Hilfe beim Umzug erbeten",
+        "situation": "Sie ziehen nächsten Monat um und brauchen Unterstützung von Freunden.",
+        "leitpunkte": [
+            "Umzugsdatum nennen",
+            "Konkrete Aufgaben beschreiben",
+            "Belohnung (Essen) versprechen"
+        ],
+        "modellantwort": "Lieber Christian,\n\nwie du weißt, ziehe ich nächsten Monat am 15. in meine neue Wohnung. Da ich sehr viele schwere Möbel und Kisten habe, brauche ich dringend ein bisschen Hilfe beim Tragen. Hättest du an dem Samstag Zeit? Für Essen und kalte Getränke wird natürlich gesorgt, ich lade euch alle danach zum Pizzaessen ein!\n\nViele Grüße\nDein Stefan"
+    },
+    {
+        "thema_nr": 22,
+        "titel": "Einladung zu einem Ausflug am Wochenende",
+        "situation": "Sie möchten am Sonntag einen Ausflug zu einem See machen.",
+        "leitpunkte": [
+            "Ziel des Ausflugs vorschlagen",
+            "Transportmittel vorschlagen (z. B. Zug/Fahrrad)",
+            "Treffpunkt festlegen"
+        ],
+        "modellantwort": "Liebe Verena,\n\ndas Wetter am Sonntag soll perfekt für einen Ausflug sein! Ich plane, an den Chiemsee zu fahren und dort ein bisschen spazieren zu gehen. Hast du Lust mitzukommen? Wir könnten gemütlich mit dem Zug hinfahren, das ist stressfrei. Treffen wir uns um 09:30 Uhr am Hauptbahnhof direkt am Gleis 12?\n\nLiebe Grüße\nDeine Nadine"
+    },
+    {
+        "thema_nr": 23,
+        "titel": "Glückwunsch zur bestandenen Prüfung",
+        "situation": "Ihr Freund hat eine wichtige Prüfung bestanden. Schreiben Sie ihm.",
+        "leitpunkte": [
+            "Gratulieren",
+            "Bewunderung für den Fleiß ausdrücken",
+            "Vorschlag zum Feiern machen"
+        ],
+        "modellantwort": "Lieber Fabian,\n\nich habe gerade gehört, dass du deine B1-Prüfung bestanden hast! Ich gratuliere dir von ganzem Herzen zu diesem tollen Erfolg. Du hast in den letzten Wochen so extrem fleißig gelernt und hast es wirklich verdient. Das müssen wir unbedingt feiern! Wann hast du Zeit, damit ich dich auf ein Getränk einladen kann?\n\nHerzliche Grüße\nDein Jan"
+    },
+    {
+        "thema_nr": 24,
+        "titel": "Rückgabe eines geliehenen Buches/Gegenstands",
+        "situation": "Sie haben ein Buch von einer Freundin geliehen und möchten es zurückgeben.",
+        "leitpunkte": [
+            "Buch fertig gelesen",
+            "Kurze Meinung zum Buch",
+            "Termin für die Rückgabe vereinbaren"
+        ],
+        "modellantwort": "Liebe Simone,\n\nich habe das Buch, das du mir geliehen hast, gestern Abend ausgelesen. Es war wirklich unglaublich spannend und ich konnte gar nicht mehr aufhören zu lesen! Vielen Dank noch mal dafür. Ich möchte es dir gerne diese Woche zurückgeben. Passt es dir, wenn ich am Donnerstag kurz bei dir vorbeikomme?\n\nViele Grüße\nDeine Barbara"
+    },
+    {
+        "thema_nr": 25,
+        "titel": "Einladung zum Public Viewing (Fußball)",
+        "situation": "Es läuft ein wichtiges Fußballspiel und Sie möchten es gemeinsam schauen.",
+        "leitpunkte": [
+            "Spiel erwähnen und Interesse zeigen",
+            "Einladung nach Hause aussprechen",
+            "Essen/Getränke absprechen"
+        ],
+        "modellantwort": "Lieber Thomas,\n\nam Mittwoch findet doch das große Halbfinalspiel statt! Da wir beide große Fußballfans sind, müssen wir das Spiel zusammen schauen. Ich lade dich zu mir ins Wohnzimmer ein, da ich einen großen Fernseher habe. Ich kaufe ein paar Getränke. Könntest du vielleicht eine Pizza bestellen oder Knabbersachen mitbringen?\n\nBis Mittwoch und liebe Grüße\nDein Andreas"
+    },
+    {
+        "thema_nr": 26,
+        "titel": "Besuch im Fitnessstudio",
+        "situation": "Sie haben sich in einem Fitnessstudio angemeldet und berichten davon.",
+        "leitpunkte": [
+            "Anmeldung im Fitnessstudio erwähnen",
+            "Gründe für den Sport nennen",
+            "Freund zur Probestunde einladen"
+        ],
+        "modellantwort": "Liebe Tanja,\n\nich habe mich gestern endlich in dem neuen Fitnessstudio um die Ecke angemeldet. Da ich bei der Arbeit nur am Schreibtisch sitze, brauche ich dringend mehr Bewegung gegen meine Rückenschmerzen. Das Studio hat tolle Geräte und eine Sauna. Du kannst gerne mal zu einem kostenlosen Probetraining mitkommen. Was hältst du davon?\n\nViele Grüße\nDeine Christina"
+    },
+    {
+        "thema_nr": 27,
+        "titel": "Planung eines Grillfests im Sommer",
+        "situation": "Sie veranstalten ein Grillfest und laden einen Bekannten/Freund ein.",
+        "leitpunkte": [
+            "Grillparty ankündigen",
+            "Ort und Datum nennen",
+            "Nach vegetarischen Wünschen fragen"
+        ],
+        "modellantwort": "Lieber Robert,\n\nder Sommer ist da und ich möchte am nächsten Samstag ein großes Grillfest bei mir im Garten veranstalten. Du bist herzlich eingeladen! Es geht um 17:00 Uhr los. Sag mir bitte Bescheid, ob du kommst und ob du Fleisch isst oder ob ich lieber vegetarische Sachen für dich besorgen soll.\n\nHerzliche Grüße\nDein Michael"
+    },
+    {
+        "thema_nr": 28,
+        "titel": "Erfahrungen mit einem Online-Einkauf",
+        "situation": "Sie haben ein Produkt online bestellt und sind unzufrieden oder überrascht.",
+        "leitpunkte": [
+            "Was gekauft wurde",
+            "Welches Problem es gibt (z. B. falsche Größe)",
+            "Rücksendung erwähnen"
+        ],
+        "modellantwort": "Liebe Laura,\n\nich muss dir von meinem Online-Einkauf erzählen. Ich habe mir letzte Woche eine Jacke im Internet bestellt. Heute kam das Paket an, aber die Jacke ist leider viel zu groß und die Farbe sieht ganz anders aus als auf der Website. Ich bin ziemlich enttäuscht und werde sie morgen direkt zurückschicken. Gehst du am Samstag mit mir in die Stadt Kleidung kaufen?\n\nViele Grüße\nDeine Steffi"
+    },
+    {
+        "thema_nr": 29,
+        "titel": "Teilnahme an einem Kochkurs",
+        "situation": "Sie haben am Wochenende einen Sushi-Kochkurs besucht und berichten.",
+        "leitpunkte": [
+            "Vom Kochkurs erzählen",
+            "Wie es Ihnen gefallen hat",
+            "Vorschlag, das Gelernte für den Freund zu kochen"
+        ],
+        "modellantwort": "Lieber Patrick,\n\nich habe am Samstag einen Sushi-Kochkurs besucht! Es war eine tolle Erfahrung und hat unglaublich viel Spaß gemacht. Der Koch hat uns genau gezeigt, wie man den Reis richtig zubereitet und rollt. Da du Sushi auch so gerne magst, möchte ich dich nächste Woche zu mir einladen und für dich frisch kochen. Wann hast du Zeit?\n\nLiebe Grüße\nDeine Anja"
+    },
+    {
+        "thema_nr": 30,
+        "titel": "Planung eines Besuchs im Zoo / Freizeitpark",
+        "situation": "Sie möchten mit der Familie eines Freundes in einen Freizeitpark fahren.",
+        "leitpunkte": [
+            "Ausflugsidee vorschlagen",
+            "Ticketkauf im Internet erwähnen (Rabatt)",
+            "Termin abstimmen"
+        ],
+        "modellantwort": "Lieber Markus,\n\nwie wäre es, wenn wir am kommenden Wochenende zusammen mit den Kindern in den Freizeitpark fahren? Ich habe gesehen, dass die Tickets im Internet aktuell günstiger sind, wenn man sie im Voraus kauft. Passt es euch besser am Samstag oder am Sonntag? Lass uns das schnell entscheiden, damit wir die Rabatte nutzen können.\n\nHerzliche Grüße\nDein Christian"
+    }
+]

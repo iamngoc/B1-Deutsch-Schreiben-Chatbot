@@ -1,0 +1,332 @@
+[
+    {
+        "thema_nr": 1,
+        "titel": "Soziale Medien im Alltag",
+        "impuls_kommentar": "Ich verbringe jeden Tag drei Stunden auf Instagram. Das macht Spaß und ich bleibe mit Freunden in Kontakt.",
+        "modellantwort": "Ich bin der Meinung, dass soziale Medien sowohl Vorteile als auch Nachteile haben. Einerseits ist es schön, mit Freunden in Kontakt zu bleiben. Andererseits verliert man dabei oft viel Zeit, die man besser nutzen könnte. Meiner Meinung nach sollte man eine Grenze setzen und nicht den ganzen Tag das Handy benutzen, um produktiv zu bleiben.",
+        "b1_wendungen": [
+            "Ich bin der Meinung, dass...",
+            "Einerseits..., andererseits...",
+            "Meiner Meinung nach sollte man..."
+        ]
+    },
+    {
+        "thema_nr": 2,
+        "titel": "Bargeldloses Bezahlen",
+        "impuls_kommentar": "Ich bezahle alles nur noch mit dem Handy oder der Karte. Das geht schneller und ich muss kein schweres Geld tragen.",
+        "modellantwort": "Ich finde das Thema bargeldloses Bezahlen sehr aktuell. Ich stimme der Aussage zu, dass es viel schneller und praktischer im Alltag ist. Trotzdem denke ich, dass man vorsichtig sein muss, weil man ohne Bargeld leicht den Überblick über seine Ausgaben verlieren kann. Ein bisschen Bargeld in der Tasche zu haben, ist deshalb immer eine gute Idee.",
+        "b1_wendungen": [
+            "Ich finde das Thema... sehr aktuell.",
+            "Ich stimme der Aussage zu, dass...",
+            "Trotzdem denke ich, dass..."
+        ]
+    },
+    {
+        "thema_nr": 3,
+        "titel": "Autofreie Innenstädte",
+        "impuls_kommentar": "In der Stadt braucht niemand ein Auto. Es gibt genug Busse und Bahnen. Autos machen nur Schmutz und Lärm.",
+        "modellantwort": "Aus meiner Sicht ist eine autofreie Innenstadt eine hervorragende Idee für den Umweltschutz. Ich bin fest davon überzeugt, dass die Luftqualität dadurch viel besser wird und die Straßen sicherer für Kinder werden. Allerdings muss der öffentliche Nahverkehr dann billiger und pünktlicher werden, damit alle Menschen ohne Probleme zur Arbeit kommen können.",
+        "b1_wendungen": [
+            "Aus meiner Sicht...",
+            "Ich bin fest davon überzeugt, dass...",
+            "Allerdings muss..."
+        ]
+    },
+    {
+        "thema_nr": 4,
+        "titel": "E-Scooter in der Stadt",
+        "impuls_kommentar": "E-Scooter stehen überall im Weg herum und sind gefährlich für Fußgänger. Man sollte sie komplett verbieten.",
+        "modellantwort": "Ich sehe das etwas anders. E-Scooter sind meiner Meinung nach eine nützliche Alternative zum Auto, besonders für kurze Strecken. Es stimmt zwar, dass manche Leute sie falsch parken, aber ein komplettes Verbot halte ich für übertrieben. Man sollte lieber feste Parkplätze für die Scooter einrichten, um das Problem zu lösen.",
+        "b1_wendungen": [
+            "Ich sehe das etwas anders.",
+            "Es stimmt zwar, dass..., aber...",
+            "Ich halte das für..."
+        ]
+    },
+    {
+        "thema_nr": 5,
+        "titel": "Fleischfreie Ernährung (Vegan/Vegetarisch)",
+        "impuls_kommentar": "Fleisch schmeckt gut und gehört zu einer gesunden Ernährung dazu. Ich kann mir ein Leben ohne Fleisch nicht vorstellen.",
+        "modellantwort": "Das ist ein wichtiges Thema, über das heute viel diskutiert wird. Ich denke, dass jeder selbst entscheiden muss, was er isst. Jedoch bin ich der Ansicht, dass wir unseren Fleischkonsum reduzieren sollten, um Tieren und der Umwelt zu helfen. Es gibt heutzutage so viele leckere vegetarische Alternativen, die man leicht ausprobieren kann.",
+        "b1_wendungen": [
+            "Das ist ein wichtiges Thema, über das...",
+            "Jedoch bin ich der Ansicht, dass...",
+            "Ich denke, dass..."
+        ]
+    },
+    {
+        "thema_nr": 6,
+        "titel": "Online-Shopping vs. Einkaufen im Geschäft",
+        "impuls_kommentar": "Im Internet findet man alles billiger und der Versand ist oft kostenlos. Ich gehe nicht mehr in Geschäfte.",
+        "modellantwort": "Ich bin mir nicht sicher, ob Online-Shopping nur Vorteile hat. Es ist zwar sehr bequem, von zu Hause aus einzukaufen, aber man kann die Kleidung nicht anprobieren. Außerdem finde ich es schade, dass wegen des Internets viele kleine Geschäfte in unseren Städten schließen müssen. Ich kaufe lieber persönlich ein.",
+        "b1_wendungen": [
+            "Ich bin mir nicht sicher, ob...",
+            "Es ist zwar..., aber...",
+            "Außerdem finde ich es schade, dass..."
+        ]
+    },
+    {
+        "thema_nr": 7,
+        "titel": "Haustiere in der Mietwohnung",
+        "impuls_kommentar": "Hunde machen Schmutz und bellen. In großen Wohnhäusern sollte Tierhaltung verboten sein.",
+        "modellantwort": "Ich verstehe die Sorge wegen des Lärms, aber ich teile diese Meinung nicht ganz. Für viele Menschen, besonders für Alleinstehende, ist ein Haustier wie ein Familienmitglied. Wenn der Besitzer gut aufpasst und mit dem Hund regelmäßig spazieren geht, ist die Haltung auch in einer Wohnung kein großes Problem.",
+        "b1_wendungen": [
+            "Ich verstehe die Sorge..., aber...",
+            "Ich teile diese Meinung nicht ganz.",
+            "Für viele Menschen ist..."
+        ]
+    },
+    {
+        "thema_nr": 8,
+        "titel": "Lernen mit KI (Künstlicher Intelligenz)",
+        "impuls_kommentar": "Hausaufgaben mit ChatGPT zu machen ist super. Man spart Zeit und muss nicht mehr selbst nachdenken.",
+        "modellantwort": "Meiner Auffassung nach ist KI ein hilfreiches Werkzeug beim Lernen, wenn man es richtig nutzt. Man kann sich Grammatikregeln erklären lassen oder Vokabeln üben. Ein großer Nachteil ist aber, dass man das eigene Denken verlernt, wenn man nur noch Texte kopiert. Die Mischung aus KI und eigener Arbeit ist der beste Weg.",
+        "b1_wendungen": [
+            "Meiner Auffassung nach...",
+            "Ein großer Nachteil ist aber...",
+            "Wenn man es richtig nutzt..."
+        ]
+    },
+    {
+        "thema_nr": 9,
+        "titel": "Work-Life-Balance (4-Tage-Woche)",
+        "impuls_kommentar": "Vier Tage Arbeit pro Woche sind genug. Man hat mehr Zeit für die Familie und ist am Montag nicht so müde.",
+        "modellantwort": "Ich finde den Vorschlag einer 4-Tage-Woche sehr attraktiv. Wenn die Mitarbeiter mehr Freizeit haben, sind sie motivierter und seltener krank. Das ist ein großer Vorteil für die Firmen. Natürlich muss man in den vier Tagen konzentrierter arbeiten, aber ich bin davon überzeugt, dass dieses Modell die Zukunft ist.",
+        "b1_wendungen": [
+            "Ich finde den Vorschlag... sehr attraktiv.",
+            "Das ist ein großer Vorteil für...",
+            "Ich bin davon überzeugt, dass..."
+        ]
+    },
+    {
+        "thema_nr": 10,
+        "titel": "Fernsehen vs. Streaming-Dienste",
+        "impuls_kommentar": "Klassisches Fernsehen schaut doch niemand mehr. Netflix und YouTube sind viel besser, weil man alles selbst wählen kann.",
+        "modellantwort": "Es steht fest, dass Streaming-Dienste die Medienlandschaft verändert haben. Ich nutze sie auch fast täglich, weil die Flexibilität toll ist. Trotzdem hat das normale Fernsehen noch einen Wert, zum Beispiel bei Live-Sportübertragungen oder den aktuellen Nachrichten. Man sollte beide Möglichkeiten nicht komplett gegeneinander ausspielen.",
+        "b1_wendungen": [
+            "Es steht fest, dass...",
+            "Trotzdem hat... noch einen Wert",
+            "weil die Flexibilität toll ist"
+        ]
+    },
+    {
+        "thema_nr": 11,
+        "titel": "Fitnessstudios",
+        "impuls_kommentar": "Fitnessstudios sind zu teuer und langweilig. Am besten läuft man einfach kostenlos im Park.",
+        "modellantwort": "Ich stimme teilweise zu, dass der Sport in der Natur erfrischend ist. Dennoch bietet ein Fitnessstudio gerade im Winter wichtige Vorteile, wie professionelle Geräte und Trainer, die Verletzungen verhindern. Für mich persönlich ist die monatliche Gebühr eine gute Investition in meine Gesundheit, da man dort strukturierter trainieren kann.",
+        "b1_wendungen": [
+            "Ich stimme teilweise zu, dass...",
+            "Dennoch bietet... wichtige Vorteile",
+            "Für mich persönlich ist..."
+        ]
+    },
+    {
+        "thema_nr": 12,
+        "titel": "Auswandern für den Beruf",
+        "impuls_kommentar": "Für einen guten Job würde ich sofort in ein anderes Land ziehen. Neue Kulturen zu entdecken ist eine tolle Chance.",
+        "modellantwort": "Ich halte das Auswandern für eine wertvolle Erfahrung, die den Charakter stärkt. Man lernt eine neue Sprache und erweitert seinen Horizont. Auf der anderen Seite darf man nicht vergessen, dass der Anfang im Ausland ohne Familie und Freunde sehr einsam sein kann. Man sollte diesen Schritt also sehr gut planen.",
+        "b1_wendungen": [
+            "Ich halte das... für eine wertvolle Erfahrung",
+            "Man erweitert seinen Horizont",
+            "Auf der anderen Seite darf man nicht vergessen..."
+        ]
+    },
+    {
+        "thema_nr": 13,
+        "titel": "Noten in der Schule",
+        "impuls_kommentar": "Schulnoten machen Kindern nur Stress und Angst. Man sollte sie abschaffen und nur Feedback-Gespräche führen.",
+        "modellantwort": "Das ist eine komplizierte Frage. Ich denke, dass Noten den Schülern eine klare Orientierung geben, wo ihre Stärken und Schwächen liegen. Auf der negativen Seite erzeugen sie tatsächlich oft zu viel Druck. Ein System mit einer Kombination aus Noten und persönlichen Gesprächen wäre wahrscheinlich die beste Lösung für alle.",
+        "b1_wendungen": [
+            "Das ist eine komplizierte Frage.",
+            "Ich denke, dass Noten... eine klare Orientierung geben",
+            "Auf der negativen Seite..."
+        ]
+    },
+    {
+        "thema_nr": 14,
+        "titel": "Fast Fashion (Billige Kleidung)",
+        "impuls_kommentar": "Ich kaufe gerne jede Woche neue, billige Klamotten. So kann ich immer modisch sein, ohne viel Geld auszugeben.",
+        "modellantwort": "Ich betrachte diesen Trend mit großer Skepsis. Billige Kleidung hält oft nicht lange und die Produktion schadet der Umwelt massiv. Zudem arbeiten die Menschen in den Fabriken unter schlechten Bedingungen. Aus diesem Grund finde ich es viel besser, weniger, aber qualitativ hochwertigere Sachen zu kaufen, die man länger trägt.",
+        "b1_wendungen": [
+            "Ich betrachte diesen Trend mit großer Skepsis.",
+            "Zudem arbeiten die Menschen...",
+            "Aus diesem Grund finde ich es viel besser..."
+        ]
+    },
+    {
+        "thema_nr": 15,
+        "titel": "Fahrradfahren im Winter",
+        "impuls_kommentar": "Im Winter Fahrrad zu fahren ist verrückt. Es ist viel zu kalt, glatt und gefährlich auf den Straßen.",
+        "modellantwort": "Ich bin da anderer Meinung. Wenn man die richtige Kleidung hat, ist das Wetter kein Problem. Fahrradfahren hält das Immunsystem fit und man steht nicht im Stau. Es ist jedoch absolut notwendig, dass die Städte die Fahrradwege im Winter pünktlich vom Schnee befreien, um die Sicherheit zu garantieren.",
+        "b1_wendungen": [
+            "Ich bin da anderer Meinung.",
+            "Fahrradfahren hält das Immunsystem fit",
+            "Es ist jedoch absolut notwendig, dass..."
+        ]
+    },
+    {
+        "thema_nr": 16,
+        "titel": "Rauchverbot in der Öffentlichkeit",
+        "impuls_kommentar": "Jeder Mensch sollte selbst entscheiden, ob er raucht. Ein Verbot an Haltestellen oder Plätzen schränkt die Freiheit ein.",
+        "modellantwort": "Meiner Überzeugung nach steht die Gesundheit der Mitmenschen an erster Stelle. Passivrauchen ist gefährlich, besonders für Kinder und kranke Personen. Deshalb befürworte ich ein striktes Rauchverbot an öffentlichen Orten wie Bahnhöfen oder Parks. Die Freiheit des Einzelnen endet dort, wo sie anderen Menschen schadet.",
+        "b1_wendungen": [
+            "Meiner Überzeugung nach...",
+            "Deshalb befürworte ich...",
+            "Die Freiheit des Einzelnen endet dort, wo..."
+        ]
+    },
+    {
+        "thema_nr": 17,
+        "titel": "Wohnen auf dem Land vs. in der Stadt",
+        "impuls_kommentar": "Die Stadt ist viel zu laut und teuer. Auf dem Land hat man Ruhe, Natur und ein schönes Haus für weniger Geld.",
+        "modellantwort": "Ich finde, beide Wohnorte haben ihren ganz eigenen Reiz. Das Land bietet Ruhe und viel Platz für Familien. Auf der Kehrseite ist man ohne Auto völlig isoliert, weil es kaum Busse gibt. In der Stadt hat man dagegen alles in der Nähe: Ärzte, Kinos und Geschäfte. Wohin man zieht, hängt von der Lebensphase ab.",
+        "b1_wendungen": [
+            "Ich finde, beide... haben ihren ganz eigenen Reiz.",
+            "Auf der Kehrseite...",
+            "Wohin man zieht, hängt von... ab."
+        ]
+    },
+    {
+        "thema_nr": 18,
+        "titel": "Verbot von Plastiktüten",
+        "impuls_kommentar": "Plastik ist super praktisch für den Einkauf. Ein Verbot macht das Leben nur komplizierter.",
+        "modellantwort": "Ich kann dem Kommentar überhaupt nicht zustimmen. Plastiktüten verschmutzen die Meere für Jahrhunderte und töten Tiere. Ein Verbot ist ein wichtiger und notwendiger Schritt für unsere Zukunft. Es ist wirklich nicht schwer, stattdessen eine Stofftasche oder einen Rucksack zum Einkaufen von zu Hause mitzubringen.",
+        "b1_wendungen": [
+            "Ich kann dem Kommentar überhaupt nicht zustimmen.",
+            "Ein Verbot ist ein wichtiger und notwendiger Schritt...",
+            "Es ist wirklich nicht schwer, stattdessen..."
+        ]
+    },
+    {
+        "thema_nr": 19,
+        "titel": "Sabbatical (Ein Jahr Auszeit vom Beruf)",
+        "impuls_kommentar": "Ein Jahr nicht zu arbeiten ist reine Faulheit. Man verliert den Anschluss im Beruf und verdient kein Geld.",
+        "modellantwort": "Ich beurteile ein Sabbatical sehr positiv. Viele Menschen arbeiten jahrelang ohne Pause und stehen kurz vor einem Burnout. Eine Auszeit hilft dabei, neue Energie zu tanken, eine Sprache zu lernen oder zu reisen. Danach kehrt man meistens viel motivierter und kreativer an den Arbeitsplatz zurück.",
+        "b1_wendungen": [
+            "Ich beurteile ... sehr positiv.",
+            "Eine Auszeit hilft dabei, neue Energie zu tanken",
+            "Danach kehrt man meistens... zurück."
+        ]
+    },
+    {
+        "thema_nr": 20,
+        "titel": "Elterliche Kontrolle bei Mediennutzung",
+        "impuls_kommentar": "Kinder sollten im Internet machen dürfen, was sie wollen. Nur so lernen sie, selbstständig zu werden.",
+        "modellantwort": "Ich halte diese Ansicht für extrem riskant. Das Internet enthält viele Inhalte, die für Kinder ungeeignet oder sogar gefährlich sind. Meines Erachtens tragen Eltern die Verantwortung dafür, die Medienzeit zu begrenzen und Filter einzurichten. Eine Begleitung ist zwingend erforderlich, damit Kinder Medienkompetenz gesund erlernen können.",
+        "b1_wendungen": [
+            "Ich halte diese Ansicht für...",
+            "Meines Erachtens...",
+            "Eine Begleitung ist zwingend erforderlich"
+        ]
+    },
+    {
+        "thema_nr": 21,
+        "titel": "Elektroautos",
+        "impuls_kommentar": "E-Autos sind zu teuer und die Batterien sind umweltschädlich. Benziner sind immer noch die bessere Wahl.",
+        "modellantwort": "Das ist ein Thema, das mich sehr beschäftigt. E-Autos sind im Moment zwar noch teuer, aber die Technologie entwickelt sich rasant weiter. Um den Klimawandel zu stoppen, müssen wir von fossilen Brennstoffen wegkommen. Meiner Ansicht nach sind Elektroautos ein wichtiger Teil der Lösung, wenn der Strom aus erneuerbaren Energien kommt.",
+        "b1_wendungen": [
+            "Das ist ein Thema, das mich sehr beschäftigt.",
+            "die Technologie entwickelt sich rasant weiter",
+            "Meiner Ansicht nach..."
+        ]
+    },
+    {
+        "thema_nr": 22,
+        "titel": "Teilen statt Kaufen (Sharing Economy)",
+        "impuls_kommentar": "Ich will meine eigenen Sachen haben. Wenn man ein Auto oder Werkzeug teilt, geht es nur kaputt.",
+        "modellantwort": "Ich finde die Idee des Teilens prinzipiell sehr gut, da sie Ressourcen schont und Geld spart. Man braucht nicht jedes Werkzeug täglich. Natürlich setzt dieses System Vertrauen und klare Regeln voraus. Wenn sich alle Nutzer respektvoll verhalten, ist Carsharing oder Toolsharing ein Modell mit großer Zukunft.",
+        "b1_wendungen": [
+            "Ich finde die Idee... prinzipiell sehr gut",
+            "da sie Ressourcen schont",
+            "Dieses System setzt ... voraus."
+        ]
+    },
+    {
+        "thema_nr": 23,
+        "titel": "Ganztagsschulen",
+        "impuls_kommentar": "Kinder sollten nachmittags zu Hause bei der Familie sein und nicht den ganzen Tag in der Schule sitzen.",
+        "modellantwort": "Aus meiner persönlichen Erfahrung weiß ich, dass Ganztagsschulen eine große Erleichterung für berufstätige Eltern sind. Sie wissen, dass ihre Kinder sicher betreut werden und warme Mahlzeiten bekommen. Wichtig ist jedoch, dass der Nachmittag nicht nur aus Unterricht besteht, sondern auch Raum für Sport und Hobbys bietet.",
+        "b1_wendungen": [
+            "Aus meiner persönlichen Erfahrung weiß ich, dass...",
+            "eine große Erleichterung für...",
+            "Wichtig ist jedoch, dass..."
+        ]
+    },
+    {
+        "thema_nr": 24,
+        "titel": "Urlaub im eigenen Land",
+        "impuls_kommentar": "Urlaub macht nur Spaß, wenn man weit weg fliegt. Zu Hause in Deutschland ist es langweilig.",
+        "modellantwort": "Dem kann ich nicht zustimmen. Ich bin davon überzeugt, dass man auch im eigenen Land wunderschöne Orte entdecken kann, ohne stundenlang im Flugzeug zu sitzen. Das spart nicht nur Geld, sondern schützt auch das Klima. Ein Urlaub in der Nähe kann genauso erholsam und spannend sein wie eine Fernreise.",
+        "b1_wendungen": [
+            "Dem kann ich nicht zustimmen.",
+            "Ich bin davon überzeugt, dass...",
+            "Das spart nicht nur Geld, sondern schützt auch..."
+        ]
+    },
+    {
+        "thema_nr": 25,
+        "titel": "Altersgrenze für den Führerschein",
+        "impuls_kommentar": "Ältere Menschen ab 70 Jahren sollten regelmäßig einen Fahrtest machen, weil sie oft Unfälle verursachen.",
+        "modellantwort": "Ich halte diesen Vorschlag für durchaus sinnvoll. Es geht hierbei nicht darum, Senioren zu diskriminieren, sondern die allgemeine Sicherheit im Straßenverkehr zu erhöhen. Da die Sehkraft und Reaktion im Alter natürlich nachlassen, ist ein kurzer Check im Interesse aller Beteiligten eine vernünftige Maßnahme.",
+        "b1_wendungen": [
+            "Ich halte diesen Vorschlag für durchaus sinnvoll.",
+            "Es geht hierbei nicht darum, ... sondern ...",
+            "im Interesse aller Beteiligten"
+        ]
+    },
+    {
+        "thema_nr": 26,
+        "titel": "Trinkgeld in der Gastronomie",
+        "impuls_kommentar": "Kellner bekommen ein Gehalt. Ich gebe grundsätzlich kein Trinkgeld, das ist Aufgabe des Chefs.",
+        "modellantwort": "Ich sehe das anders als der Verfasser des Kommentars. Die Gehälter in der Gastronomie sind oft sehr niedrig und die Arbeit ist extrem anstrengend. Ein angemessenes Trinkgeld ist für mich ein Zeichen des Respekts und der Anerkennung für guten Service. Wenn ich mit der Bedienung zufrieden war, gebe ich gerne etwas extra.",
+        "b1_wendungen": [
+            "Ich sehe das anders als...",
+            "ein Zeichen des Respekts und der Anerkennung",
+            "Wenn ich mit ... zufrieden war..."
+        ]
+    },
+    {
+        "thema_nr": 27,
+        "titel": "Heimarbeit (Homeoffice)",
+        "impuls_kommentar": "Im Homeoffice arbeitet niemand richtig, alle schauen nur fern oder schlafen. Das ist schlecht für die Firmen.",
+        "modellantwort": "Ich finde diese Vorurteile nicht gerechtfertigt. Viele Studien zeigen, dass Menschen im Homeoffice konzentrierter arbeiten, weil es weniger Ablenkung durch Kollegen gibt. Zudem spart man den täglichen Arbeitsweg, was die Lebensqualität deutlich erhöht. Für mich überwiegen die positiven Aspekte dieses Arbeitsmodells bei Weitem.",
+        "b1_wendungen": [
+            "Ich finde diese Vorurteile nicht gerechtfertigt.",
+            "Zudem spart man den täglichen Arbeitsweg",
+            "Für mich überwiegen die positiven Aspekte..."
+        ]
+    },
+    {
+        "thema_nr": 28,
+        "titel": "Verbot von Feuerwerk an Silvester",
+        "impuls_kommentar": "Silvester ohne Böllern ist kein echtes Neujahr. Die Tradition darf man den Menschen nicht wegnehmen.",
+        "modellantwort": "Das ist ein Thema, das jedes Jahr für heftige Diskussionen sorgt. Obwohl ich Traditionen mag, bin ich für ein Verbot von privatem Feuerwerk. Die enorme Luftverschmutzung und der extreme Stress für Haus- und Wildtiere sind einfach zu hoch. Ein großes, zentrales Feuerwerk der Stadt wäre eine sicherere und sauberere Alternative.",
+        "b1_wendungen": [
+            "Das ist ein Thema, das für heftige Diskussionen sorgt.",
+            "Obwohl ich... mag, bin ich für...",
+            "wäre eine sicherere und sauberere Alternative"
+        ]
+    },
+    {
+        "thema_nr": 29,
+        "titel": "Bücher lesen vs. Hörbücher hören",
+        "impuls_kommentar": "Echte Bücher braucht man nicht mehr. Hörbücher kann man überall beim Aufräumen oder Autofahren hören.",
+        "modellantwort": "Ich nutze beide Formate gerne, je nach Situation. Hörbücher sind perfekt für den Weg zur Arbeit oder beim Sport. Auf der anderen Seite hat das Lesen eines gedruckten Buches eine besondere Qualität, da man sich besser konzentriert und die Augen vom Bildschirm entspannen können. Keines der Medien schließt das andere aus.",
+        "b1_wendungen": [
+            "Ich nutze beide Formate gerne, je nach Situation.",
+            "hat eine besondere Qualität",
+            "Keines der Medien schließt das andere aus."
+        ]
+    },
+    {
+        "thema_nr": 30,
+        "titel": "Zweitstudium oder späte Berufswechsel",
+        "impuls_kommentar": "Mit 40 noch mal etwas Neues zu lernen oder zu studieren ist Zeitverschwendung. Man sollte bei seinem Beruf bleiben.",
+        "modellantwort": "Ich bewundere Menschen, die im reifen Alter den Mut haben, beruflich noch einmal ganz von vorne anzufangen. Das Leben ist lang und es ist wichtig, dass man eine Arbeit macht, die einen erfüllt. Ein später Wechsel bringt wertvolle Lebenserfahrung in den neuen Beruf ein, was für Arbeitgeber ein echter Gewinn sein kann.",
+        "b1_wendungen": [
+            "Ich bewundere Menschen, die...",
+            "den Mut haben, beruflich noch einmal...",
+            "was für Arbeitgeber ein echter Gewinn sein kann."
+        ]
+    }
+]

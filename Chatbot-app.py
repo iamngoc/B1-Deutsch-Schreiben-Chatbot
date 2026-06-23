@@ -11,6 +11,7 @@ import torch
 import streamlit as st
 import tempfile
 import os
+import json
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_huggingface.llms import HuggingFacePipeline
@@ -29,7 +30,7 @@ st.set_page_config(page_title="B1-Schreiben Deutsch Assistant", layout="wide")
 PERSIST_DIR = "./chroma_db"
 st.title("📝 B1-Schreiben Deutsch Assistent")
 st.markdown("""
-<h2>Diese App hilft dir bei der Vorbereitung auf den B1-Schreibtest in Deutsch. Gib bitte ein Thema ein, über das du schreiben möchtest.</h2>
+## Diese App hilft dir bei der Vorbereitung auf den B1-Schreibtest in Deutsch. Gib bitte ein Thema ein, über das du schreiben möchtest.
 
 Der B1-Schreibtest besteht aus drei Unterabschnitten:
 
@@ -70,7 +71,8 @@ if "rag_chain" not in st.session_state:
 
             Schreibe NUR den Brief/die E-Mail im B1-Stil. Verwende eine passende Anrede und einen passenden Schluss.
             Verwende eine passende Anrede und einen passenden Schluss.
-            Verwende keinen Doppelpunkt, keinen Gedankenstrich. 
+            Verwende keinen Doppelpunkt, keinen Gedankenstrich.
+            Verwende richtiges Brief-Format wenn es ein Brief ist.
             Stelle die Richtigkeit des Inhalts sicher sodass der Text sofort abgeschrieben werden ohne Korrigieren kann. 
             Schreibe KEINE Erklärungen, KEINE Bewertung, KEINE zusätzlichen Kommentare nach dem Text.
             Höre auf, sobald der Brief mit der Grußformel und dem Namen endet.
@@ -107,6 +109,14 @@ def clean_answer(output: str) -> str:
             text = text.split(marker)[0]
 
     return text.strip()
+
+# --- Datenbank prüfen ---
+if not os.path.exists(PERSIST_DIR):
+    st.error(
+        f"❌ Keine Datenbank gefunden in '{PERSIST_DIR}'. "
+        "Bitte zuerst `setup.py` ausführen, um die Datenbank zu erstellen."
+    )
+    st.stop()
 # Fragebereich
 
 user_question = st.text_area("Deine Aufgabe / Câu hỏi của bạn:")
